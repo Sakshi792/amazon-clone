@@ -46,4 +46,4 @@ This project helped me learn:
 
 Sakshi Sharma
 
-B.Tech CSE Student | Aspiring Full Stack Web Developer
+B.Tech CSE Student 
